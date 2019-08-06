@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553701140 source:g:\c  programming\tower of hanoi rough\automated piano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
+1553701343 source:g:\c  programming\3.automated piano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
