@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553458067 source:g:\c  programming\tower of hanoi rough\2.hanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
