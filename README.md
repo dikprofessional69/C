@@ -1,2 +1,2 @@
 # C
-This Program converts the Youtube Piano video - "https://www.youtube.com/watch?v=k-k0hgIhddc" into actual playable program in C programming language.
+these are some C programs i made for fun. XD
